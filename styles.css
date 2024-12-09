@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+#task-form {
+    margin-bottom: 20px;
+}
+
+#tasks {
+    margin-top: 20px;
+}
